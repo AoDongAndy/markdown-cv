@@ -1,31 +1,32 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Weiran Huang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Weiran Huang
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="andy.weiran.huang@gmail.com">andy.weiran.huang@gmail.com</a>
+| 7788478186
+| <a href="https://github.com/AoDongAndy">https://github.com/AoDongAndy</a>
 </div>
 
 
-## Currently
+## Education
+York University Second year Electrical engineering student, average grade B+
 
-Standing on the shoulders of giants
 
-### Specialized in
+### Skills
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-### Research interests
+### Projects
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## Experience
 
 `1654-1660`
 __The King's School, Grantham.__
