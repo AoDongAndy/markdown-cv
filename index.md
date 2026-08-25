@@ -1,5 +1,73 @@
 ---
 layout: cv
+title: DongDong's CV
+---
+# DongDong
+
+
+<div id="webaddress">
+<a href="DongDong@gmail.com">DongDong@gmail.com</a>
+| 789256321
+| <a href="https://github.com/DongDong">https://github.com/DongDong</a>
+</div>
+
+
+## Education
+Bachelor of Engineering, Electrical Engineering York University — Toronto, ON
+<br>
+Expected Graduation: 2027
+<br>
+GPA: 7.00/9.00 (B+ average)
+
+### Relevant Coursework
+- Electrical Circuits
+-  Electricity & Magnetism
+-  Procedural Programming
+-  Object-Oriented Programming
+-  Discrete Mathematics
+
+### Technical Skills
+- Programming: Java, C, MATLAB
+- Engineering Software: MATLAB, Simulink
+- Hardware & Measurement: Arduino, Oscilloscope, Multimeter, DC Power Supply
+- Circuit Analysis: DC/AC circuit analysis, basic circuit simulation, voltage/current measurement
+
+
+
+### Projects
+- Automatic-Plant-Watering (Embedded Control)
+> **An event-driven state machine built with Java (Firmata4j) and Arduino that waters plants based on real-time soil moisture and surrounding temperature.**
+- Automated Lens Cleaner (engineering design process)
+> **An automated prototype built with C and Arduino that can rinse the lense.**
+
+
+## Experience
+`January  - April 2026`
+__Automated Lens Cleaner Poject Teamleader__
+<br>
+Lead four team members finish researching, designing, prototyping and presenting in four month and got A mark. In charging of Interviewing user to find need, duilding and designing the Automated Lens Cleaner model, testing and report how well of the each function by using different design material or structural.
+
+`July - Novermber 2025`
+__Waiter__
+  
+Address: Asian Gourmet Wok & Grill, M7B 8V4
+<br>
+Attract customers to the restaurant through shouting and communication, recommend suitable dishes to customers, pack food according to customer requests, handle payment, and clean and arrange all kinds of dishes before the restaurant opens.
+
+
+
+
+
+
+
+
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+---
+layout: cv
 title: Weiran Huang's CV
 ---
 # Weiran Huang
@@ -82,11 +150,5 @@ __Royal Mint__, London
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
