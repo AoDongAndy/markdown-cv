@@ -35,24 +35,34 @@ GPA: 7.00/9.00 (B+ average)
 
 
 ### Projects
-- Automatic-Plant-Watering (Embedded Control)
-> **An event-driven state machine built with Java (Firmata4j) and Arduino that waters plants based on real-time soil moisture and surrounding temperature.**
-- Automated Lens Cleaner (engineering design process)
-> **An automated prototype built with C and Arduino that can rinse the lense.**
+**Automatic-Plant-Watering** | Java, Arduino, Firmata4j, MATLAB
+- Developed a Java-based control program using Firmata4j to monitor soil moisture and temperature and control a water pump through Arduino.
+- Implemented timed sampling and pump-control logic to regulate watering based on sensor readings.
+- Collected sensor data and visualized moisture changes over time using MATLAB.
+
+**Automated Lens Cleaner prototyed** |engineering design process
+- Developed and prototyped a spray-based lens-cleaning concept to demonstrate the proposed cleaning mechanism
+
+
 
 
 ## Experience
+__Automated Lens Cleaner Poject Team leader__
 `January  - April 2026`
-__Automated Lens Cleaner Poject Teamleader__
 <br>
-Lead four team members finish researching, designing, prototyping and presenting in four month and got A mark. In charging of Interviewing user to find need, duilding and designing the Automated Lens Cleaner model, testing and report how well of the each function by using different design material or structural.
-
-`July - Novermber 2025`
-__Waiter__
-  
-Address: Asian Gourmet Wok & Grill, M7B 8V4
+- Led a four-member team through user research, concept development, prototyping, testing, and project documentation.
+- Conducted user interviews to identify key requirements and translated user needs into design criteria.
+- Developed and compared three design concepts before selecting the final approach based on project constraints.
+- Created concept drawings and worked with a team member to build a prototype demonstrating the spray-based cleaning mechanism.
+- Coordinated team meetings, reviewed milestone deliverables to keep the project on schedule and got A for this project.
+   
+__Restaurant Staff__
+`July - Novermber 2025`  
+Asian Gourmet Wok & Grill — Toronto, ON
 <br>
-Attract customers to the restaurant through shouting and communication, recommend suitable dishes to customers, pack food according to customer requests, handle payment, and clean and arrange all kinds of dishes before the restaurant opens.
+- Provided customer service in a fast-paced restaurant environment and communicated with customers to understand and fulfill their requests.
+- Recommended menu items based on customer preferences and handled payment transactions.
+- Maintained cleanliness and organized work areas while supporting daily restaurant operations.
 
 
 
