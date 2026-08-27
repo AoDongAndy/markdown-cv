@@ -28,34 +28,30 @@ GPA: 7.00/9.00 (B+ average)
 
 ### Technical Skills
 - Programming: Java, C, MATLAB
-- Engineering Software: MATLAB, Simulink
+- Engineering Software: Simulink
 - Hardware & Measurement: Arduino, Oscilloscope, Multimeter, DC Power Supply
-- Circuit Analysis: DC/AC circuit analysis, basic circuit simulation, voltage/current measurement
+- Circuit Analysis: Basic DC/AC circuit analysis, circuit simulation, voltage/current measurement
 
 
 
 ### Projects
 **Automatic-Plant-Watering** | Java, Arduino, Firmata4j, MATLAB
-- Developed a Java-based control program using Firmata4j to monitor soil moisture and temperature and control a water pump through Arduino.
+- Developed a Java-based control program using Firmata4j to monitor soil moisture and temperature. The system can control a water pump through Arduino.
 - Implemented timed sampling and pump-control logic to regulate watering based on sensor readings.
-- Collected sensor data and visualized moisture changes over time using MATLAB.
+- Collected sensor data and visualized moisture changes over time using MATLAB, enabling long-term analysis of plant water absorption efficiency.
 
-**Automated Lens Cleaner prototyed** |engineering design process
-- Developed and prototyped a spray-based lens-cleaning concept to demonstrate the proposed cleaning mechanism
-
-
-
-
-## Experience
-__Automated Lens Cleaner Poject Team leader__
-`January  - April 2026`
-<br>
-- Led a four-member team through user research, concept development, prototyping, testing, and project documentation.
-- Conducted user interviews to identify key requirements and translated user needs into design criteria.
+**Automated Lens Cleaner prototyed** | Team leader / Engineering Design Project
+- Led a 4-member team through the full engineering design cycle: user research, concept development, prototyping, testing and project documentation.
+- Conducted user interviews to identify key requirements and translated user needs into design criteria, which guided the evaluation of three proposed designs.
 - Developed and compared three design concepts before selecting the final approach based on project constraints.
 - Created concept drawings and worked with a team member to build a prototype demonstrating the spray-based cleaning mechanism.
-- Coordinated team meetings, reviewed milestone deliverables to keep the project on schedule and got A for this project.
-   
+- Performed spray coverage testing and optimized nozzle positioning to achieve uniform fluid distribution across the lens surface.
+- Coordinated team meetings, reviewed milestone deliverables to keep the project on schedule and  successfully delivered a high-scoring final project.
+
+
+
+
+## Experience   
 __Restaurant Staff__
 `July - Novermber 2025`  
 Asian Gourmet Wok & Grill — Toronto, ON
