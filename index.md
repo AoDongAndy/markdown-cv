@@ -4,7 +4,6 @@ title: DongDong's CV
 ---
 # DongDong
 
-
 <div id="webaddress">
 <a href="DongDong@gmail.com">DongDong@gmail.com</a>
 | 789256321
@@ -13,24 +12,28 @@ title: DongDong's CV
 
 
 ## Education
-Bachelor of Engineering, Electrical Engineering York University — Toronto, ON
+Bachelor of Engineering, Electrical Engineering 
+<br>
+York University — Toronto, ON
 <br>
 Expected Graduation: 2027
 <br>
-GPA: 7.00/9.00 (B+ average)
+GPA: 7.00/9.00 
 
 ### Relevant Coursework
 - Electrical Circuits
+-  Electronic Circuits and Devices
+-  Introduction to Embedded Systems
+-  Signals and Systems
 -  Electricity & Magnetism
--  Procedural Programming
--  Object-Oriented Programming
--  Discrete Mathematics
+-  Procedural & Object-Oriented Programming
 
 ### Technical Skills
 - Programming: Java, C, MATLAB
 - Engineering Software: Simulink
 - Hardware & Measurement: Arduino, Oscilloscope, Multimeter, DC Power Supply
 - Circuit Analysis: Basic DC/AC circuit analysis, circuit simulation, voltage/current measurement
+- Tools: Git, GitHub
 
 
 
@@ -39,6 +42,7 @@ GPA: 7.00/9.00 (B+ average)
 - Developed a Java-based control program using Firmata4j to monitor soil moisture and temperature. The system can control a water pump through Arduino.
 - Implemented timed sampling and pump-control logic to regulate watering based on sensor readings.
 - Collected sensor data and visualized moisture changes over time using MATLAB, enabling long-term analysis of plant water absorption efficiency.
+- Debugged communication and data-processing issues that caused repeated pump activation, improving system reliability.
 
 **Automated Lens Cleaner prototyed** | Team leader / Engineering Design Project
 - Led a 4-member team through the full engineering design cycle: user research, concept development, prototyping, testing and project documentation.
